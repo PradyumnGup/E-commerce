@@ -10,6 +10,7 @@ import { addcartItem } from "./Redux/CartSlice";
 import { useDispatch } from "react-redux";
 import ProductDetails from "./components/Pdp";
 
+
 const App = () => {
 
   const [cart, setCart] = useState([]);

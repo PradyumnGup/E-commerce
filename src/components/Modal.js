@@ -9,6 +9,7 @@ import BasicRating from "./Rating";
 import { toast } from "react-toastify";
 import axios from "axios";
 
+
 const style = {
     position: "absolute",
     top: "50%",
